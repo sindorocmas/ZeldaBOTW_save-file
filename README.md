@@ -1,6 +1,4 @@
-# 100% Save files
-
-repo ini adalah progres dari game zelda botw yang aku main kan, hanya buat tempat save progres aja, soalnya aku ingin save file ini bisa di gunakan di berbagai patform. siapa tau aku bisa menamatkan 100 persen progres dan bisa kamu mainkan.
+# Save files
 
 I made this repo to back up my Zelda: Breath of the Wild save files from my current playthrough. I want to make these save files usable on any platform—Nintendo Switch, Wii U, or even emulators (like Savage Wind / Ryujinx / Cemu). Hopefully, I can reach 100% completion soon so you can use them too!.
 
